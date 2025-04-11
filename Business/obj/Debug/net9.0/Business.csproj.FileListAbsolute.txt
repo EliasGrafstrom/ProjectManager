@@ -1,0 +1,38 @@
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Business.deps.json
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Business.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Business.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Data.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Data.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Domain.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\bin\Debug\net9.0\Hubs.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\refint\Business.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\Business.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Business\obj\Debug\net9.0\ref\Business.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Business.deps.json
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Business.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Business.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Data.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Data.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Domain.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\bin\Debug\net9.0\Hubs.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\refint\Business.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\Business.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Business\obj\Debug\net9.0\ref\Business.dll
