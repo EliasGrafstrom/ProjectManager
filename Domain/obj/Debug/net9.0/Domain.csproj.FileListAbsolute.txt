@@ -1,0 +1,22 @@
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\bin\Debug\net9.0\Domain.deps.json
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\bin\Debug\net9.0\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\bin\Debug\net9.0\Domain.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\refint\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\Domain.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Domain\obj\Debug\net9.0\ref\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\bin\Debug\net9.0\Domain.deps.json
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\bin\Debug\net9.0\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\bin\Debug\net9.0\Domain.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\refint\Domain.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\Domain.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Domain\obj\Debug\net9.0\ref\Domain.dll
