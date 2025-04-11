@@ -1,0 +1,24 @@
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\bin\Debug\net9.0\Hubs.deps.json
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\bin\Debug\net9.0\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\bin\Debug\net9.0\Hubs.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\Hubs.csproj.AssemblyReference.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\Hubs.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\Hubs.AssemblyInfoInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\Hubs.AssemblyInfo.cs
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\Hubs.csproj.CoreCompileInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\refint\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\Hubs.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\Lek 10\Hubs\obj\Debug\net9.0\ref\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\bin\Debug\net9.0\Hubs.deps.json
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\bin\Debug\net9.0\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\bin\Debug\net9.0\Hubs.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\Hubs.csproj.AssemblyReference.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\Hubs.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\Hubs.AssemblyInfoInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\Hubs.AssemblyInfo.cs
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\Hubs.csproj.CoreCompileInputs.cache
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\refint\Hubs.dll
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\Hubs.pdb
+F:\new\asp1-main\lektion-10-2025-04-04\ProjectManager\Hubs\obj\Debug\net9.0\ref\Hubs.dll
