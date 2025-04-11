@@ -1,0 +1,40 @@
+﻿@model ProjectsViewModel
+@{
+    ViewData["Title"] = "Projects";
+}
+
+<partial name="Partials/Project/_AddProjectModal" model="Model.AddProjectViewModel" />
+<partial name="Partials/Project/_EditProjectModal" model="Model.EditProjectViewModel" />
+
+<section id="projects">
+    <div class="section-header">
+        <h1>@ViewData["Title"]</h1>
+        <button type="button" data-type="modal" data-target="#addProjectModal" class="btn btn-add"><span>Add Project</span></button>
+    </div>
+
+
+    <div class="project-list">
+        @foreach(var project in Model.Projects)
+        {
+            <div class="project-item">
+                <img src="~/images/projects/project-template.svg" class="add-project-icon" />
+                <div class="project-details">
+
+                    <h2>@project.ProjectName</h2>
+                    <h4>@Html.Raw(project.Description)</h4>
+                    <p><strong>Client:</strong> @project.Client.ClientName</p>
+                    <p><strong>Status:</strong> @project.Status.StatusName</p>
+
+                </div>
+
+
+                <div class="project-actions">
+                    <button type="button" data-type="modal" data-target="#editProjectModal" class="btn btn-edit" data-id="@project.Id">Edit</button>
+                    <button type="button" class="btn btn-delete" data-id="@project.Id">Delete</button>
+                </div>
+            </div>
+        }
+    </div>
+</section>
+
+
